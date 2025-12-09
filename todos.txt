@@ -1,13 +1,4 @@
 add a new player
 repair the chair
 clean the bag
-Buy PlantsClean the code
-Good OrderWe just made a default arg
-Clean the program
-My newest todo is added
-And lastly
-And lastly
-And lastly
-
-Last todo
-Last todo
+Buy veggies
